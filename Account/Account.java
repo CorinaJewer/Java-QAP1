@@ -52,7 +52,7 @@
     }
 
     public String toString(){
-        return "Account [id = " + id + ", name = " + name + ", balance = " + balance + "]";
+        return "Account [id = " + this.id + ", name = " + this.name + ", balance = " + this.balance + "]";
     }
 
 }
